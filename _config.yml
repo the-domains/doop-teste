@@ -1,0 +1,14 @@
+layout_spectrum: 0.9200313393957913
+typography_spectrum: 0.1284399894066155
+color:
+  brandStrength: 0.9042168178129941
+  lightness: 0.8572947166394442
+  saturation: 0.08911285689100623
+  rhythmicContrast: 0.9131053294986486
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Doop teste
