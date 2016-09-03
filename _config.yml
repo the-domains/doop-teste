@@ -1,3 +1,4 @@
+layout_spectrum: 0.9200313393957913
 typography_spectrum: 0.1284399894066155
 color:
   brandStrength: 0.9042168178129941
@@ -5,12 +6,9 @@ color:
   saturation: 0.08911285689100623
   rhythmicContrast: 0.9131053294986486
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-layout_spectrum: 0.9200313393957913
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Doop teste
-title: Muito mais que um guia!
-description: O Doop oferece guias divertidos e com a cara de ca
